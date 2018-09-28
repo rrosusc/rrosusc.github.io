@@ -1,0 +1,13 @@
+[Home](index.md) | [Research](research.md) | [Publications](publications.md) | [Videos](videos.md) | [People](people.md) | [Misc.](misc.md) | [About](about.md) | [Contact RRoS](contact.md)
+
+# About Us
+
+Fillout lab description with pretty pictures.
+
+***
+
+The Gamma function satisfying $$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$$ is via the Euler integral
+
+$$ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,. $$
+
+***
