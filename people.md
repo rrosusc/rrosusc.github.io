@@ -24,6 +24,11 @@
   <br>
 </p>
 
+<p align="left">
+  <b>Shantanu Thakar</b> (Doctoral Student)<br>
+  <img width="100" src="http://cam.usc.edu/images/People/Students//Thakar.jpg">
+  <br>
+</p>
 - *Add your name*
 
 - **John Doe**
